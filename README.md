@@ -1,4 +1,4 @@
-                 Stock Movement Analysis Based on Social Media Sentiment
+                          Stock Movement Analysis Based on Social Media Sentiment
 
 This project analyzes and predicts stock movements by extracting and analyzing social media data. It uses sentiment analysis to gauge the overall mood related to specific stocks and correlates this sentiment with stock price movements.
 
