@@ -62,5 +62,4 @@ _**Reporting Findings :-** The script will print a summary of findings related t
 - _Identification of stocks showing significant changes based on social media sentiment._
 
 _**Recommendations :-** Based on the analysis, the script will suggest actionable insights._ 
-
 **_For example:_** _Stock X shows a strong correlation between negative sentiment and price drops; it could be a signal for traders to exercise caution._
