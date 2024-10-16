@@ -82,7 +82,7 @@ Based on the analysis, the script will suggest actionable insights. For example:
 
 "Stock X shows a strong correlation between negative sentiment and price drops; it could be a signal for traders to exercise caution."
 
-
+**### **Stock Movement Analysis Based on Social Media Sentiment****
 
 
 
